@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/754a76be-7144-4c87-9e3f-f8c469048922
 
 
-```markdown
+
 # Post-API
 
 A server-side application built with **Node.js**, **Express**, and **TypeScript**. This API allows users to manage posts with functionalities to:
